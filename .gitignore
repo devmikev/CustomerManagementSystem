@@ -1,3 +1,7 @@
 ACM.BL/bin
 ACM.BL/obj
 .vs/
+ACM.BLTest/bin
+ACM.BLTest/obj
+/packages
+/TestResults
